@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "destfuat",
+    "email": "destfuat@gmail.com"
+  },
+  "record": {
+    "NS": [
+      "amalia.ns.cloudflare.com",
+      "yichun.ns.cloudflare.com"
+    ]
+  }
+}
